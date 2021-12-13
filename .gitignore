@@ -1,7 +1,6 @@
 venv
 requirements
 __pycache__
-*.txt
 requirements-dev.txt
 Makefile
 TODO.md
