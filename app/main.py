@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return {"message": "Welcome to Hero Quest!"}
+    return {"message": "Welcome to Hero Quest!!!"}
